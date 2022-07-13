@@ -7,4 +7,5 @@ To get started developing right away:
 
 - install all project dependencies with `npm install`
 - start the development server with `npm start`
+- 
 [![React-crud-app.png](https://i.postimg.cc/L59GMRGC/React-crud-app.png)](https://postimg.cc/YGPd6crY)
